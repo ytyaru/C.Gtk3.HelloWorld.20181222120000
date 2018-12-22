@@ -14,6 +14,13 @@
             * [GtkSourceView2](http://ytyaru.hatenablog.com/entry/2020/03/08/000000)
         * cc (Raspbian 6.3.0-18+rpi1+deb9u1) 6.3.0 20170516
 
+# 参考
+
+* https://www.ei.tohoku.ac.jp/xkozima/lab/raspTutorial2.html
+* https://developer.gnome.org/gtksourceview/stable/GtkSourceView.html
+* https://github.com/gwutz/gnome-university-code-examples/blob/master/src/gtksourceview-example/gucodeviewer.c
+* https://www.kksou.com/php-gtk2/sample-codes/use-GtkSourceView-to-display-source-code-Part-1.php
+
 # ライセンス
 
 　このソフトウェアはCC0ライセンスである。
